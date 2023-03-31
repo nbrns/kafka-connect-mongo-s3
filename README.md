@@ -1,4 +1,4 @@
-# Hello Kafka Connect
+# Kafka Connect Mongo DB (Source) - S3 (Sink)
 
 This repository contains a sample setup for Kafka Connect from MongoDB to S3 using...
 
