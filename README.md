@@ -69,7 +69,7 @@ Sample `curl` to deploy connectors using the above configs stored as json files
 curl --fail -X PUT localhost:8083/connectors/mongo-simple-source/config -H "Content-Type: application/json" --data-binary "@connector-configs/mongo-source.json"
 ```
 
-> **NOTE**: See samples.json for some 
+> **NOTE**: See samples.json for some sample mongo documents
 
 ## Cleanup
 
